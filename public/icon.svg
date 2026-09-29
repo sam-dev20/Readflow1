@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="104" fill="#1C1917"/>
+  <rect x="24" y="24" width="464" height="464" rx="84" fill="none" stroke="#292524" stroke-width="4"/>
+  <circle cx="390" cy="120" r="16" fill="#F59E0B"/>
+  <!-- Stylized R with Flow line -->
+  <path d="M168 128 H276 C324 128 352 154 352 196 C352 232 328 258 288 262 L360 368 H304 L236 268 H224 V368 H168 V128 Z M224 172 V226 H268 C294 226 308 214 308 198 C308 182 294 172 268 172 H224 Z" fill="#FAF8F5"/>
+  <path d="M168 392 C230 380 290 404 360 388" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>

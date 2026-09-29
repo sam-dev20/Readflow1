@@ -1,0 +1,8 @@
+{
+  "name": "ReadFlow",
+  "description": "Practice academic reading comprehension with True/False/Not Given, fill-in-the-blank questions, customizable timer, and immediate feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
